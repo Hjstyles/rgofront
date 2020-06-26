@@ -1,0 +1,136 @@
+sup{
+    margin-left: 7px;
+    font-size: 11px;
+     background: -webkit-linear-gradient(left, hotpink , );
+   background: -o-linear-gradient(right, red, hotpink);
+   background: -moz-linear-gradient(right, red, hotpink);
+   background: linear-gradient(to right, red , hotpink); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+    
+}img{
+    height: 55px;
+
+}.navbar-toggler{
+border: 0px;
+width: 60px
+    
+    
+}
+.navbar-toggler-icon{
+    height: 35px
+}
+body{
+    background-color:white;
+        margin:0px;
+    padding: 0px;
+    height:100% 
+    
+}
+
+
+
+
+
+li{
+   margin-left: 0px;
+    margin-right: 10px
+}
+
+
+.nav-link{
+    margin-left: 40px;
+    
+    
+}
+.navbar{
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+      padding-left: 0px;
+  
+      box-shadow:  0px 3px 4px rgba(0,0,0,0.15);
+  
+
+    
+
+  
+
+    
+    
+}
+
+
+
+
+
+.netcard{
+    display: flex;
+  flex-wrap: wrap;
+}
+
+.blog{
+    text-align: center;
+   
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+
+    margin-bottom: 600px
+}
+
+.text{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    
+    margin-top: 30px;
+    margin-bottom: 200px;
+    
+}
+
+
+
+footer{
+    background-color:#202021 ;
+    
+Padding-bottom:1px;
+Padding-top:15px;
+Line-height:25px;
+    
+     height="5px";
+    text-align: center;
+    margin-top: 70px
+}
+
+.last{color:white;
+font-size:15px;
+margin-bottom:20px;
+margin-top:90px;
+}
+
+a.last:hover{
+    color: black
+}
+#legal{
+    text-align: center;
+    font-size: 10px;
+    margin-top: 0px;
+    margin-left: 12px;
+    color: white;
+    margin-top: 10px
+}
+.social {
+    width: inherit;
+    height: 25px;
+    margin-top:30px; 
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+
+
+
+

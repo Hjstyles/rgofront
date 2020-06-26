@@ -1,0 +1,234 @@
+.perks2{
+    height: 140px;
+    width: 200px
+    
+}
+sup{
+    margin-left: 7px;
+    font-size: 11px;
+     background: -webkit-linear-gradient(left, hotpink , );
+   background: -o-linear-gradient(right, red, hotpink);
+   background: -moz-linear-gradient(right, red, hotpink);
+   background: linear-gradient(to right, red , hotpink); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+    
+}
+.top{
+   height: 55px
+}
+.horizontal{
+   
+
+   display: flex;
+  flex-wrap: wrap;
+    justify-content: center;
+  padding-top: 0px;
+    cursor: pointer
+    
+    
+  
+   
+   
+   
+}
+
+.image2{
+    width: 50px;
+    height: 50px;
+    margin-left: 90px;
+    margin-right:90px;
+  
+  
+    
+}
+.hi{
+    margin-top:23px;
+  
+}
+
+
+
+.item{
+text-align: center;
+ 
+    margin: 50px;
+    margin-bottom: 0px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-toggler{
+border: 0px;
+width: 60px
+    
+    
+}
+.navbar-toggler-icon{
+    height: 35px
+}
+.navbar{
+    padding-bottom: 0px;
+     box-shadow:  0px 3px 4px rgba(0,0,0,0.15);
+   
+  padding-left: 0px;
+
+    
+    
+}
+
+.nav-link{
+    margin-left: 40px;
+    margin-right: 10px
+    
+}
+
+
+
+
+
+ul{
+    list-style: none;
+    
+   
+    margin-bottom: 20px;
+    
+     
+}
+
+
+
+
+
+
+
+
+
+footer{
+    background-color:#202021 ;
+Padding-bottom:1px;
+Padding-top:20px;
+Line-height:25px;
+    
+     height="5px";
+    text-align: center;
+  margin-top: 50px
+}
+
+.last{color:white;
+font-size:px;
+margin-bottom:20px;
+margin-top:0px;
+    font-weight: 00
+}
+
+a.last:hover{
+    color: black
+}
+#legal{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 0px;
+    margin-left: 12px;
+    color: white;
+    margin-top: 10px
+}
+.social {
+    width: inherit;
+    height: 25px;
+    margin-top:20px; 
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+
+
+
+
+
+.ready{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+   
+    padding-bottom: 20px;
+   
+}
+
+
+.we{
+    text-align: center;
+    color: gray
+        
+    font-size: 15px;
+    margin-bottom: 40px;
+    margin-top: 40px
+}
+
+.check{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 21px;
+    font-weight: bold;
+
+}
+
+.perks{
+
+text-align: center;
+margin-top: 60px;
+font-size: 23px;
+font-weight: bold;
+    margin-bottom: 30px
+  
+}
+
+
+.perks1{
+     border-bottom: solid 5px;
+    border-image-source:  linear-gradient(to right, white 0%, skyblue, white 100% );
+      border-image-slice: 1;
+    padding-bottom: 10px
+}
+
+
+#apply{
+    color: aqua;
+    background-color: green
+}
+
+.card{
+    margin: 20px;
+   margin-bottom: 30px;
+  
+     text-align: center;
+    border: none;
+}
+
+.btn{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:black;
+    border-color: black;
+
+    margin-top: 20px;
+    margin-bottom: 0px
+}

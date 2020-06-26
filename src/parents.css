@@ -1,0 +1,194 @@
+sup{
+    margin-left: 7px;
+    font-size: 11px;
+     background: -webkit-linear-gradient(left, hotpink , );
+   background: -o-linear-gradient(right, red, hotpink);
+   background: -moz-linear-gradient(right, red, hotpink);
+   background: linear-gradient(to right, red , hotpink); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+    
+}img{
+    height: 55px;
+
+}body {
+  width: 100%;
+  height: 100%;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+  position: relative;
+}
+
+font-family: 'Montserrat', sans-serif;
+
+
+.navbar-toggler{
+border: 0px;
+width: 60px;
+    border: none;
+       opacity:0
+    
+    
+}
+
+.navbar-toggler-icon{
+    height: 35px;
+    border:none
+     
+}
+.navbar{
+    padding-bottom: 0px;
+      box-shadow:  0px 3px 4px  rgba(0,0,0,0.15);
+  
+ padding-left: 0px;
+    
+    
+}
+
+.nav-link{
+    margin-left: 40px;
+    
+}
+
+
+
+
+li{
+    margin-left: 0px;
+    margin-right: 10px
+}
+
+ul{
+    list-style: none;
+    
+   
+    margin-bottom: 20px;
+    
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color:#202021 ;
+    
+Padding-bottom:1px;
+Padding-top:30px;
+Line-height:25px;
+    
+     height="5px";
+    text-align: center;
+    margin-top: 50px
+}
+
+.last{color:white;
+font-size:px;
+margin-bottom:20px;
+margin-top:90px;
+}
+
+
+#legal{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 0px;
+    margin-left: 12px;
+    color: white;
+    margin-top: 10px
+}
+.social {
+    width: inherit;
+    height: 25px;
+    margin-top:20px; 
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+.are{
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+ 
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 10px
+}
+
+.understand{
+    text-align: center;
+    padding: 20px;
+
+    font-weight: ;
+}
+
+.sum{
+    background-image: linear-gradient(to bottom, #c8e7f7,white)}
+.how{
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    font-weight:bold;
+    padding-left: 40px;
+    padding-right: 47px;
+ 
+    margin-top: 30px
+}
+
+.driver{
+    text-align: center;
+    font-weight:;
+    margin-bottom: 30px
+}
+
+    
+.horizontal{
+   
+
+   display: flex;
+  flex-wrap: wrap;
+    justify-content: center;
+  padding-top: 0px;
+    
+  
+   
+   
+   
+}
+.image2{
+    width: 60px;
+    height: 60px;
+  
+  
+  
+    
+}
+.item{
+text-align: center;
+ 
+    margin: 10px
+}
+
+.safe21 {color:gray;
+    font-weight: ;
+    margin-top: 0px;
+    font-weight: 400;
+    
+   
+    
+ }
+
+.hi{
+    margin-top:19px;
+    font-weight: bold
+}
