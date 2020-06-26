@@ -27,7 +27,7 @@ class Schoolform extends React.Component {
   }
 
   onSubmitSignIn = () => {
-    fetch('https://frozen-retreat-23211.herokuapp.com/schoolform', {
+    fetch('http://localhost:3000/schoolform', {
       method: 'post',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({

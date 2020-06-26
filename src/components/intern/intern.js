@@ -36,7 +36,7 @@ class Intern extends React.Component {
   }
 
   onSubmitSignIn = () => {
-    fetch('https://frozen-retreat-23211.herokuapp.com/intern', {
+    fetch('http://localhost:3000/intern', {
       method: 'post',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
